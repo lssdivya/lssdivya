@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sai Divya Lanka</h1>
-<h3 align="center">Data Engineer & Full-Stack Developer | Obsessed with turning data into delightful, scalable products</h3>
+<h3 align="center">Software Engineer & Full-Stack Developer | Obsessed with turning data into delightful, scalable products</h3>
 
 ---
 
 💡 **About Me**  
-🔹 Data Engineer with 4+ years of experience across enterprise, startups, and research  
+🔹 Software Engineer with 4+ years of experience across enterprise, startups, and research  
 🔹 Cloud-native pipeline builder with a love for clean UI and measurable business impact  
 🔹 Passionate about translating complex data problems into modern, intuitive solutions
 
