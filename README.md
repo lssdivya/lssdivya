@@ -4,7 +4,7 @@
 ---
 
 💡 **About Me**  
-🔹 Software Engineer with 4+ years of experience across enterprise and startup settings  
+🔹 Software Engineer with experience across enterprise and startup settings  
 🔹 Passionate about AI infrastructure, scalable cloud systems, and ML runtime optimization  
 🔹 Focused on building performant, production-ready software that powers real-world ML at scale
 
